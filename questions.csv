@@ -1,0 +1,296 @@
+answer,question
+Wrong,MongoDB is a relational database management system.
+Correct,MongoDB stores data in flexible JSON-like documents.
+Correct,In MongoDB collections are equivalent to tables in relational databases.
+Wrong,MongoDB requires a predefined schema for all documents.
+Correct,The default primary key in MongoDB is named "_id".
+Correct,MongoDB supports horizontal scaling through sharding.
+Wrong,MongoDB uses SQL as its primary query language.
+Correct,MongoDB supports geospatial indexing and queries.
+Wrong,Transactions in MongoDB are always ACID compliant across multiple documents.
+Correct,MongoDB allows for nested documents within a single document.
+Wrong,Indexes in MongoDB can only be created on a single field.
+Correct,MongoDB supports full-text search capabilities.
+Wrong,MongoDB is only suitable for small-scale applications.
+Correct,MongoDB uses BSON (Binary JSON) for data storage.
+Wrong,MongoDB requires all fields to be present in every document of a collection.
+Correct,The MongoDB aggregation framework allows for complex data processing.
+Wrong,MongoDB does not support joins between collections.
+Correct,MongoDB provides a TTL (Time-To-Live) index for automatic document expiration.
+Wrong,MongoDB cannot handle unstructured data.
+Correct,MongoDB supports real-time data changes through Change Streams.
+Wrong,MongoDB does not allow for atomic operations on a single document.
+Correct,MongoDB provides drivers for most popular programming languages.
+Wrong,MongoDB requires all data to be loaded into RAM.
+Correct,MongoDB supports role-based access control (RBAC).
+Wrong,MongoDB does not support multi-document ACID transactions.
+Correct,MongoDB allows for dynamic queries without predefined structures.
+Wrong,Replica sets in MongoDB are only used for data backup.
+Correct,MongoDB supports field-level encryption for enhanced security.
+Wrong,MongoDB cannot handle more than 100 GB of data efficiently.
+Correct,MongoDB allows for schema validation using JSON Schema.
+Wrong,Indexing in MongoDB always slows down write operations.
+Correct,MongoDB supports upsert operations (update or insert).
+Wrong,MongoDB does not provide any tools for data migration.
+Correct,MongoDB Compass is a GUI tool for interacting with MongoDB databases.
+Wrong,MongoDB Atlas is an on-premises database solution.
+Correct,MongoDB supports multi-document transactions since version 4.0.
+Wrong,MongoDB does not allow for case-insensitive queries.
+Correct,MongoDB can automatically balance data across shards.
+Wrong,MongoDB does not support stored procedures.
+Correct,MongoDB allows for creating capped collections with fixed sizes.
+Wrong,MongoDB uses B-tree indexes exclusively.
+Correct,MongoDB supports creating views on collections.
+Wrong,MongoDB does not provide any tools for performance monitoring.
+Correct,MongoDB allows for creating compound indexes on multiple fields.
+Wrong,MongoDB cannot handle concurrent read and write operations.
+Correct,MongoDB provides a $lookup operator for performing left outer joins.
+Wrong,MongoDB does not support any form of data compression.
+Correct,MongoDB allows for creating unique indexes to enforce data uniqueness.
+Wrong,MongoDB requires manual sharding of data across multiple servers.
+Correct,MongoDB supports creating partial indexes based on a filter expression.
+Wrong,MongoDB does not provide any mechanism for data backup and restoration.
+Correct,MongoDB allows for creating sparse indexes that only reference documents with the indexed field.
+Wrong,MongoDB does not support any form of data aggregation.
+Correct,MongoDB provides a $graphLookup operator for graph-like queries.
+Wrong,MongoDB requires all data to be in memory for optimal performance.
+Correct,MongoDB supports creating text indexes for full-text search capabilities.
+Wrong,MongoDB does not allow for bulk write operations.
+Correct,MongoDB provides a $merge stage in the aggregation pipeline for writing results back to a collection.
+Wrong,MongoDB does not support any form of data encryption.
+Correct,MongoDB allows for creating wildcard indexes to index on arbitrary fields.
+Wrong,MongoDB requires manual configuration of replica sets.
+Correct,MongoDB provides a $out stage in the aggregation pipeline for creating new collections.
+Wrong,MongoDB does not support any form of data replication.
+Correct,MongoDB allows for creating hashed indexes for more even data distribution in sharded clusters.
+Wrong,MongoDB requires all queries to use indexes.
+Correct,MongoDB provides a $facet stage in the aggregation pipeline for multi-faceted aggregations.
+Wrong,MongoDB does not support any form of data versioning.
+Correct,MongoDB allows for creating 2dsphere indexes for geospatial queries on spherical geometries.
+Wrong,MongoDB requires manual configuration of sharding.
+Correct,MongoDB provides a $lookup stage in the aggregation pipeline for performing left outer joins.
+Wrong,MongoDB does not support any form of data partitioning.
+Correct,MongoDB allows for creating text indexes with weights for prioritizing fields in text searches.
+Wrong,MongoDB requires all data to be structured in a specific format.
+Correct,MongoDB provides a $bucket stage in the aggregation pipeline for grouping documents into buckets.
+Wrong,MongoDB does not support any form of data caching.
+Correct,MongoDB allows for creating compound text indexes on multiple fields.
+Wrong,MongoDB requires manual configuration of load balancing.
+Correct,MongoDB provides a $unionWith stage in the aggregation pipeline for combining data from multiple collections.
+Wrong,MongoDB does not support any form of data compression.
+Correct,MongoDB allows for creating unique compound indexes to enforce uniqueness across multiple fields.
+Wrong,MongoDB requires all indexes to be created manually.
+Correct,MongoDB provides a $setWindowFields stage in the aggregation pipeline for window operations.
+Wrong,MongoDB does not support any form of data auditing.
+Correct,MongoDB allows for creating partial unique indexes.
+Wrong,MongoDB requires manual configuration of data backups.
+Correct,MongoDB provides a $redact stage in the aggregation pipeline for controlling document content based on information stored in the documents themselves.
+Wrong,MongoDB does not support any form of data masking.
+Correct,MongoDB allows for creating covered queries where all query criteria and projected fields are part of an index.
+Wrong,MongoDB requires all data to be in a single collection for efficient querying.
+Correct,MongoDB provides a $lookup stage with uncorrelated subqueries in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data sampling.
+Correct,MongoDB allows for creating hidden indexes that are not used by the query planner.
+Wrong,MongoDB requires manual configuration of data recovery.
+Correct,MongoDB provides a $documents stage in the aggregation pipeline for inserting documents into the pipeline.
+Wrong,MongoDB does not support any form of data encryption at rest.
+Correct,MongoDB allows for creating case-insensitive indexes.
+Correct,MongoDB supports multi-document ACID transactions in replica sets.
+Wrong,MongoDB uses a fixed schema for all collections.
+Correct,The MongoDB query language is based on JavaScript.
+Wrong,MongoDB cannot handle more than 1 million documents per collection.
+Correct,MongoDB supports the creation of TTL (Time-To-Live) indexes.
+Wrong,Sharding in MongoDB requires manual data distribution.
+Correct,MongoDB allows for dynamic schema changes without downtime.
+Wrong,MongoDB does not support full-text search capabilities.
+Correct,MongoDB provides a $graphLookup stage for graph-like queries in the aggregation pipeline.
+Wrong,Indexes in MongoDB are always updated synchronously.
+Correct,MongoDB supports creating views with computed fields.
+Wrong,MongoDB requires all data to be in RAM for querying.
+Correct,The MongoDB aggregation framework supports windowing operations.
+Wrong,MongoDB does not allow for atomic updates on embedded documents.
+Correct,MongoDB provides a change streams feature for real-time data changes.
+Wrong,MongoDB uses a single-threaded processing model.
+Correct,MongoDB supports the creation of partial indexes.
+Wrong,All MongoDB queries require an index to be efficient.
+Correct,MongoDB allows for the creation of collections with document validation rules.
+Wrong,MongoDB does not support any form of server-side scripting.
+Correct,MongoDB provides a $lookup stage for performing left outer joins in the aggregation pipeline.
+Wrong,MongoDB requires manual configuration of write concern levels.
+Correct,MongoDB supports the creation of compound indexes on multiple fields.
+Wrong,MongoDB does not allow for case-insensitive queries.
+Correct,MongoDB provides a $merge stage for writing aggregation results back to a collection.
+Wrong,MongoDB requires all documents in a collection to have the same fields.
+Correct,MongoDB supports the creation of text indexes for full-text search.
+Wrong,MongoDB does not provide any mechanism for data compression.
+Correct,MongoDB allows for the creation of unique indexes to enforce data uniqueness.
+Wrong,MongoDB requires manual sharding key selection.
+Correct,MongoDB supports the creation of 2dsphere indexes for geospatial queries.
+Wrong,MongoDB does not allow for bulk write operations.
+Correct,MongoDB provides a $facet stage for multi-faceted aggregations in the pipeline.
+Wrong,MongoDB requires manual configuration of connection pooling.
+Correct,MongoDB supports the creation of hashed indexes for more even data distribution.
+Wrong,MongoDB does not provide any tools for performance monitoring.
+Correct,MongoDB allows for the creation of sparse indexes that only reference documents with the indexed field.
+Wrong,MongoDB requires manual configuration of read preferences.
+Correct,MongoDB provides a $bucket stage for grouping documents into buckets in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data encryption at rest.
+Correct,MongoDB allows for the creation of wildcard indexes to index on arbitrary fields.
+Wrong,MongoDB requires manual configuration of authentication mechanisms.
+Correct,MongoDB provides a $unionWith stage for combining data from multiple collections in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data auditing.
+Correct,MongoDB allows for the creation of covered queries where all query criteria and projected fields are part of an index.
+Wrong,MongoDB requires manual configuration of network compression.
+Correct,MongoDB provides a $redact stage for controlling document content based on information stored in the documents themselves.
+Wrong,MongoDB does not support any form of data masking.
+Correct,MongoDB allows for the creation of hidden indexes that are not used by the query planner.
+Wrong,MongoDB requires manual configuration of SSL/TLS settings.
+Correct,MongoDB provides a $documents stage for inserting documents into the aggregation pipeline.
+Wrong,MongoDB does not support any form of data sampling.
+Correct,MongoDB allows for the creation of case-insensitive indexes.
+Wrong,MongoDB requires manual configuration of oplog size.
+Correct,MongoDB provides a $setWindowFields stage for window operations in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data versioning.
+Correct,MongoDB allows for the creation of partial unique indexes.
+Wrong,MongoDB requires manual configuration of index builds.
+Correct,MongoDB provides a $densify stage for filling in missing data points in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data partitioning.
+Correct,MongoDB allows for the creation of compound text indexes on multiple fields.
+Wrong,MongoDB requires manual configuration of cursor timeout.
+Correct,MongoDB provides a $fill stage for filling in missing data in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data caching.
+Correct,MongoDB allows for the creation of unique compound indexes to enforce uniqueness across multiple fields.
+Wrong,MongoDB requires manual configuration of query plans.
+Correct,MongoDB provides a $search stage for Atlas Search in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data compression.
+Correct,MongoDB allows for the creation of index intersection.
+Wrong,MongoDB requires manual configuration of write acknowledgments.
+Correct,MongoDB provides a $vectorSearch stage for vector search in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data encryption in transit.
+Correct,MongoDB allows for the creation of collation-based indexes.
+Wrong,MongoDB requires manual configuration of read concern levels.
+Correct,MongoDB provides a $setWindowFields stage for sliding window calculations in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data anonymization.
+Correct,MongoDB allows for the creation of background index builds.
+Wrong,MongoDB requires manual configuration of write tickets.
+Correct,MongoDB provides a $function stage for defining custom aggregation expressions in the pipeline.
+Wrong,MongoDB does not support any form of data archiving.
+Correct,MongoDB allows for the creation of partial filter expressions on indexes.
+Wrong,MongoDB requires manual configuration of read tickets.
+Correct,MongoDB provides a $merge stage with custom update pipelines in the aggregation framework.
+Wrong,MongoDB does not support any form of data lineage tracking.
+Correct,MongoDB allows for the creation of indexes with custom collations.
+Wrong,MongoDB requires manual configuration of database profiling.
+Correct,MongoDB provides a $accumulator stage for user-defined accumulator functions in the aggregation pipeline.
+Wrong,MongoDB does not support any form of data quality checks.
+Correct,MongoDB allows for the creation of multi-key indexes on array fields.
+Wrong,MongoDB requires manual configuration of query optimization.
+Correct,MongoDB provides a $dateToString operator for custom date formatting in queries and aggregations.
+Wrong,MongoDB does not support any form of data retention policies.
+Correct,MongoDB allows for the creation of prefix indexes on compound indexes.
+Wrong,MongoDB requires manual configuration of cursor batch size.
+Correct,MongoDB provides a $convert operator for explicit type conversions in queries and aggregations.
+Wrong,MongoDB does not support any form of data obfuscation.
+Correct,MongoDB allows for the creation of indexes with custom storage engines.
+Wrong,MongoDB requires manual configuration of read preferences for secondaries.
+Correct,MongoDB provides a $replaceRoot stage for promoting embedded documents to the top level in the aggregation pipeline.
+Correct,"In MongoDB, a compound index can optimize queries that filter on multiple fields, but it requires the order of fields in the index to match the query."
+Wrong,"MongoDB does not allow the use of indexes in aggregation pipelines."
+Correct,"The performance of write operations in a MongoDB sharded cluster can be influenced by the choice of the shard key."
+Wrong,"MongoDB's sharding only affects read operations, not writes."
+Correct,"Using the $elemMatch operator in MongoDB, you can match documents that contain an array field with at least one element matching all specified criteria."
+Wrong,"The $elemMatch operator can only be used for exact matches in MongoDB."
+Correct,"In MongoDB, an aggregation pipeline can include a $graphLookup stage for recursive searches within a collection."
+Wrong,"MongoDB does not support recursive operations in aggregation pipelines."
+Correct,"A MongoDB replica set can have an arbiter node, which participates in elections but does not store data."
+Wrong,"In a MongoDB replica set, all nodes must store data."
+Correct,"The WiredTiger storage engine in MongoDB uses both compression and cache to optimize storage and retrieval."
+Wrong,"WiredTiger in MongoDB only optimizes storage with compression, not cache."
+Correct,"MongoDB's aggregation framework allows for the use of custom JavaScript functions through the $function operator."
+Wrong,"Custom JavaScript functions are not supported in MongoDB's aggregation framework."
+Correct,"In MongoDB, the $bucketAuto stage dynamically creates buckets for aggregation based on the distribution of input data."
+Wrong,"The $bucketAuto stage in MongoDB requires predefined bucket boundaries."
+Correct,"Using MongoDB's TTL (Time to Live) indexes, documents can automatically expire and be removed after a specified duration."
+Wrong,"TTL indexes in MongoDB only mark documents as expired but do not remove them."
+Correct,"MongoDB allows for distributed transactions across multiple shards, ensuring ACID properties."
+Wrong,"MongoDB does not support distributed transactions across multiple shards."
+Correct,"In MongoDB, text indexes support stemming, which reduces words to their root form."
+Wrong,"Text indexes in MongoDB only match exact words and do not support stemming."
+Correct,"The $merge stage in MongoDB's aggregation pipeline can be used to merge the output of a pipeline into an existing collection, updating or inserting documents as needed."
+Wrong,"The $merge stage in MongoDB only inserts new documents and cannot update existing ones."
+Correct,"MongoDB's partial indexes index only the documents in a collection that meet a specified filter condition."
+Wrong,"Partial indexes in MongoDB index all documents and then filter the results during queries."
+Correct,"MongoDB supports multi-document ACID transactions, but they are more resource-intensive than single-document operations."
+Wrong,"MongoDB's multi-document transactions are as efficient as single-document operations."
+Correct,"In MongoDB, the $text operator allows for searching text within a collection using natural language queries."
+Wrong,"The $text operator in MongoDB only supports exact matches and does not support natural language processing."
+Correct,"When using MongoDB's sharding, it's important to carefully choose a shard key to avoid hotspots and ensure even data distribution."
+Wrong,"The choice of shard key in MongoDB's sharding does not significantly impact performance."
+Correct,"In MongoDB, the $lookup stage can perform left outer joins between two collections, and the performance can be affected by the size of the collections involved."
+Wrong,"The $lookup stage in MongoDB is optimized for performance and is not affected by the size of collections."
+Correct,"MongoDB's capped collections have a fixed size and automatically delete the oldest documents when the size limit is reached."
+Wrong,"Capped collections in MongoDB grow indefinitely without deleting old documents."
+Correct,"In a MongoDB replica set, the oplog (operations log) is used to replicate changes from the primary node to the secondary nodes."
+Wrong,"The oplog in MongoDB is only used for restoring backups, not for replication."
+Correct,"The aggregation pipeline in MongoDB supports stages like $group, $unwind, and $out, allowing for complex data transformations."
+Wrong,"MongoDB's aggregation pipeline only supports basic stages like $match and $sort."
+Correct,"In MongoDB, a hashed index can be used to distribute documents evenly across shards, particularly for fields with high cardinality."
+Wrong,"Hashed indexes in MongoDB are used to perform full-text search and are not related to sharding."
+Correct,"MongoDB's $cond operator in the aggregation pipeline allows for conditional expressions, similar to if-else logic."
+Wrong,"The $cond operator in MongoDB is used for arithmetic operations, not conditional logic."
+Correct,"A MongoDB secondary node can be configured as a delayed replica, which replicates data from the primary with a time delay."
+Wrong,"All secondary nodes in a MongoDB replica set replicate data in real-time without delay."
+Correct,"The $geoNear stage in MongoDB's aggregation pipeline is used to perform geospatial queries that return documents sorted by distance."
+Wrong,"The $geoNear stage in MongoDB's aggregation pipeline is used to index geospatial data, not for querying."
+Correct,"MongoDB's change streams allow applications to access real-time data changes without polling the database."
+Wrong,"Change streams in MongoDB require continuous polling to detect data changes."
+Correct,"In MongoDB, the $sample stage in an aggregation pipeline can be used to randomly select a specified number of documents."
+Wrong,"The $sample stage in MongoDB is used for sorting documents in a random order."
+Correct,"The WiredTiger engine in MongoDB uses multiversion concurrency control (MVCC) to handle simultaneous read and write operations."
+Wrong,"WiredTiger in MongoDB handles concurrency by locking the entire database during write operations."
+Correct,"The $facet stage in MongoDB's aggregation pipeline allows for executing multiple aggregation pipelines within a single stage, each producing its own result set."
+Wrong,"The $facet stage in MongoDB is used to split documents into different collections based on criteria."
+Correct,"MongoDB's replica set can tolerate a single node failure without losing the ability to elect a new primary, assuming the replica set has at least three members."
+Wrong,"A MongoDB replica set cannot elect a new primary if any node fails."
+Correct,"In MongoDB, the $redact stage in the aggregation pipeline is used to restrict the content of documents based on the user’s access level."
+Wrong,"The $redact stage in MongoDB is used for data formatting, not for access control."
+Correct,"MongoDB Atlas automatically manages backups and restores for cloud-deployed databases."
+Wrong,"MongoDB Atlas requires manual configuration for backups and restores."
+Correct,"A MongoDB database can be encrypted at rest using the WiredTiger storage engine's built-in encryption support."
+Wrong,"MongoDB does not support encryption at rest and relies on external tools for encryption."
+Correct,"In MongoDB, the $unwind stage can be used to flatten arrays within documents, but it can also preserve array index information if needed."
+Wrong,"The $unwind stage in MongoDB only flattens arrays and cannot preserve index information."
+Correct,"MongoDB supports the use of collation to perform case-insensitive and locale-aware string comparisons in queries."
+Wrong,"Collation in MongoDB is limited to sorting operations and cannot be applied to queries."
+Correct,"The $text operator in MongoDB can be combined with the $meta projection to sort documents by relevance score."
+Wrong,"The $text operator in MongoDB does not support sorting by relevance."
+Correct,"MongoDB's $indexStats aggregation stage can be used to return statistics about the usage of each index on a collection."
+Wrong,"The $indexStats stage in MongoDB is used to create new indexes based on query patterns."
+Correct,"MongoDB's GridFS is useful for storing and retrieving files that exceed the BSON document size limit of 16MB."
+Wrong,"GridFS in MongoDB is designed for storing metadata, not large files."
+Correct,"The $currentOp aggregation stage in MongoDB provides information about operations currently running on the server, which can be filtered and analyzed."
+Wrong,"The $currentOp stage in MongoDB is used to kill long-running queries."
+Correct,"In MongoDB, secondary nodes can vote in elections even if they are not eligible to become primary."
+Wrong,"Only nodes eligible to become primary can vote in elections in MongoDB's replica sets."
+Correct,"The $out stage in MongoDB's aggregation pipeline can be used to write the results of an aggregation to a new or existing collection."
+Wrong,"The $out stage in MongoDB is used to export data to external systems."
+Correct,"In MongoDB, a sparse index only includes documents in the index if the indexed field contains a value."
+Wrong,"Sparse indexes in MongoDB include all documents, regardless of whether the indexed field contains a value."
+Correct,"MongoDB supports the use of wildcard indexes to index fields within documents that have dynamic or unpredictable structures."
+Wrong,"Wildcard indexes in MongoDB are limited to static, well-defined fields in documents."
+Correct,"In a sharded MongoDB deployment, balancing the chunks across shards is crucial to prevent some shards from becoming overburdened with data."
+Wrong,"Shard balancing in MongoDB is an optional operation that has no impact on overall performance."
+Correct,"The $mergeObjects operator in MongoDB can be used in the aggregation pipeline to combine the fields of multiple documents into a single document."
+Wrong,"The $mergeObjects operator in MongoDB is used to merge collections, not document fields."
+Correct,"MongoDB's retryable writes feature ensures that write operations are not executed more than once even if the client sends the request multiple times."
+Wrong,"Retryable writes in MongoDB are designed to execute the same write operation multiple times for redundancy."
+Correct,"In MongoDB, the $addFields stage allows for adding new fields or modifying existing ones within documents in an aggregation pipeline."
+Wrong,"The $addFields stage in MongoDB is used to delete fields from documents in an aggregation pipeline."
+Correct,"MongoDB supports the use of encrypted fields within documents, allowing for field-level encryption."
+Wrong,"Field-level encryption in MongoDB requires the entire document to be encrypted."
+Correct,"In a MongoDB replica set, the priority value assigned to each member affects the likelihood of that member becoming primary during an election."
+Wrong,"The priority value in a MongoDB replica set only affects the order in which nodes are synced, not the election process."
+Correct,"The $map operator in MongoDB's aggregation framework can be used to apply a transformation to each element in an array field."
+Wrong,"The $map operator in MongoDB is used to filter array elements, not transform them."
+Correct,"MongoDB's $accumulator operator allows for custom aggregation logic by accumulating values during the processing of a group of documents."
+Wrong,"The $accumulator operator in MongoDB is only used for predefined aggregation functions like $sum and $avg."
